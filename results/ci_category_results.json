@@ -1,0 +1,266 @@
+{
+  "1600": {
+    "trials": 3000,
+    "critical": 1,
+    "categories": {
+      "cycle_compat_case1": {
+        "fail": 1403,
+        "total": 2324,
+        "rate": 0.6037005163511188,
+        "ci_lo": 0.5834785967838618,
+        "ci_hi": 0.6236606145661954
+      },
+      "gcd_colouring_b": {
+        "fail": 3,
+        "total": 2923,
+        "rate": 0.0010263427984946972,
+        "ci_lo": 0.00021170659137156823,
+        "ci_hi": 0.002996451449938544
+      },
+      "unique_highest_branch_b": {
+        "fail": 48,
+        "total": 2999,
+        "rate": 0.016005335111703902,
+        "ci_lo": 0.01182403566753059,
+        "ci_hi": 0.021165297877240946
+      },
+      "unique_highest_branch_a": {
+        "fail": 41,
+        "total": 2999,
+        "rate": 0.013671223741247083,
+        "ci_lo": 0.009828089978995272,
+        "ci_hi": 0.018501273727004542
+      },
+      "clusters_le_5lnn_b": {
+        "fail": 0,
+        "total": 2999,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0012292803120552036
+      },
+      "crown_intersects_mscc_b": {
+        "fail": 85,
+        "total": 2999,
+        "rate": 0.028342780926975657,
+        "ci_lo": 0.02270055468067522,
+        "ci_hi": 0.0349282703130044
+      },
+      "clusters_le_5lnn_a": {
+        "fail": 0,
+        "total": 2999,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0012292803120552036
+      },
+      "const_stable": {
+        "fail": 453,
+        "total": 2998,
+        "rate": 0.15110073382254838,
+        "ci_lo": 0.13845893395334422,
+        "ci_hi": 0.16442741328768368
+      },
+      "big_cluster_connectivity_b": {
+        "fail": 0,
+        "total": 2923,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0012612222772310942
+      },
+      "cycle_compat_case2": {
+        "fail": 426,
+        "total": 688,
+        "rate": 0.6191860465116279,
+        "ci_lo": 0.5817260892331644,
+        "ci_hi": 0.6556190198098311
+      },
+      "core_size_ge_0.75n": {
+        "fail": 4,
+        "total": 2999,
+        "rate": 0.001333777925975325,
+        "ci_lo": 0.0003635253901830884,
+        "ci_hi": 0.003411448941824344
+      },
+      "stable_pair_seed": {
+        "fail": 0,
+        "total": 2998,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.001229690093304436
+      },
+      "crown_intersects_mscc_a": {
+        "fail": 76,
+        "total": 2999,
+        "rate": 0.025341780593531177,
+        "ci_lo": 0.02001719371654868,
+        "ci_hi": 0.031617468364845636
+      },
+      "stable_pair_extension_b": {
+        "fail": 33,
+        "total": 2923,
+        "rate": 0.01128977078344167,
+        "ci_lo": 0.007783750368384534,
+        "ci_hi": 0.015818802157472302
+      },
+      "cycle_compat_case3": {
+        "fail": 2156,
+        "total": 2890,
+        "rate": 0.7460207612456747,
+        "ci_lo": 0.7297337416849183,
+        "ci_hi": 0.761808168433904
+      },
+      "stable_pair_extension_a": {
+        "fail": 0,
+        "total": 75,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.047995064055142256
+      },
+      "gcd_colouring_a": {
+        "fail": 0,
+        "total": 75,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.047995064055142256
+      },
+      "big_cluster_connectivity_a": {
+        "fail": 0,
+        "total": 75,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.047995064055142256
+      }
+    }
+  },
+  "6400": {
+    "trials": 1500,
+    "critical": 1,
+    "categories": {
+      "crown_intersects_mscc_b": {
+        "fail": 22,
+        "total": 1500,
+        "rate": 0.014666666666666666,
+        "ci_lo": 0.00921374136978764,
+        "ci_hi": 0.022121728073354073
+      },
+      "clusters_le_5lnn_b": {
+        "fail": 0,
+        "total": 1500,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.002456231484198528
+      },
+      "unique_highest_branch_b": {
+        "fail": 8,
+        "total": 1500,
+        "rate": 0.005333333333333333,
+        "ci_lo": 0.00230528246677165,
+        "ci_hi": 0.010481612626419612
+      },
+      "unique_highest_branch_a": {
+        "fail": 9,
+        "total": 1500,
+        "rate": 0.006,
+        "ci_lo": 0.0027471433061431166,
+        "ci_hi": 0.011359186862201482
+      },
+      "cycle_compat_case1": {
+        "fail": 760,
+        "total": 1414,
+        "rate": 0.5374823196605375,
+        "ci_lo": 0.511085775982501,
+        "ci_hi": 0.5637228279541292
+      },
+      "crown_intersects_mscc_a": {
+        "fail": 24,
+        "total": 1500,
+        "rate": 0.016,
+        "ci_lo": 0.010277704097761629,
+        "ci_hi": 0.023713695096128657
+      },
+      "stable_pair_extension_b": {
+        "fail": 4,
+        "total": 1476,
+        "rate": 0.0027100271002710027,
+        "ci_lo": 0.0007388694956520744,
+        "ci_hi": 0.006924086504907289
+      },
+      "const_stable": {
+        "fail": 59,
+        "total": 1499,
+        "rate": 0.03935957304869913,
+        "ci_lo": 0.03009486369398958,
+        "ci_hi": 0.050479622316111715
+      },
+      "big_cluster_connectivity_b": {
+        "fail": 0,
+        "total": 1476,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.0024961203203959573
+      },
+      "core_size_ge_0.75n": {
+        "fail": 1,
+        "total": 1500,
+        "rate": 0.0006666666666666666,
+        "ci_lo": 1.687839621446107e-05,
+        "ci_hi": 0.0037087735206347097
+      },
+      "stable_pair_seed": {
+        "fail": 0,
+        "total": 1499,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.002457868048883301
+      },
+      "clusters_le_5lnn_a": {
+        "fail": 0,
+        "total": 1500,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.002456231484198528
+      },
+      "gcd_colouring_b": {
+        "fail": 1,
+        "total": 1476,
+        "rate": 0.0006775067750677507,
+        "ci_lo": 1.715283932759003e-05,
+        "ci_hi": 0.0037689854109816913
+      },
+      "cycle_compat_case3": {
+        "fail": 1068,
+        "total": 1425,
+        "rate": 0.7494736842105263,
+        "ci_lo": 0.7261245676872523,
+        "ci_hi": 0.7717896485309386
+      },
+      "cycle_compat_case2": {
+        "fail": 432,
+        "total": 806,
+        "rate": 0.5359801488833746,
+        "ci_lo": 0.5008526039593573,
+        "ci_hi": 0.5708436452854802
+      },
+      "big_cluster_connectivity_a": {
+        "fail": 0,
+        "total": 23,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.14818512891522437
+      },
+      "gcd_colouring_a": {
+        "fail": 0,
+        "total": 23,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.14818512891522437
+      },
+      "stable_pair_extension_a": {
+        "fail": 0,
+        "total": 23,
+        "rate": 0.0,
+        "ci_lo": 0.0,
+        "ci_hi": 0.14818512891522437
+      }
+    }
+  }
+}
